@@ -1,0 +1,36 @@
+@import "_header";
+
+
+h1{
+    color: green;
+}
+
+h2{
+    color: darkviolet;
+}
+
+body{
+    font-size: 20px;
+    background-color: cadetblue;
+    div{
+        font-size: 15px;
+    }
+}
+
+.greeting {
+	font-weight: bold;
+	background-color: darkkhaki;
+	width:fit-content
+}
+
+.asshole, .monster{
+	font-weight: 400;
+	color: red;
+	background-color: coral;
+	width: fit-content
+}
+
+img{
+	width: auto;
+	size: 400px;
+}

@@ -1,0 +1,41 @@
+header {
+  background-color: rgba(22, 4, 90, 0.214);
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: darkviolet;
+}
+
+body {
+  font-size: 20px;
+  background-color: cadetblue;
+}
+body div {
+  font-size: 15px;
+}
+
+.greeting {
+  font-weight: bold;
+  background-color: darkkhaki;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.asshole, .monster {
+  font-weight: 400;
+  color: red;
+  background-color: coral;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+img {
+  width: auto;
+  size: 400px;
+}
